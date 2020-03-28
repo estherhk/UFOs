@@ -17,7 +17,7 @@ To create a webpage that includes an article, brief summary, and data about UFO 
 - D3
 
 ## Website Product
-<img width=“500” alt=“” src="https://github.com/estherhk/Mission-to-Mars/blob/master/Mission-to-Mars.png">
+<img width=“500” alt=“” src="https://github.com/estherhk/UFOs/blob/master/static/images/webpage.png">
 
 ### Website Components
 1. Jumbotron 
