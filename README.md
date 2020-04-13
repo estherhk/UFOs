@@ -1,7 +1,7 @@
 # UFOs
 
 ## Project Overview
-To create a webpage that includes an article, brief summary, and data about UFO sightings.  A dynamic webpage is created by inserting JavaScript into a HTML page.  Boostrap, CSS, and D3 are used to improve the webpage for users appeal.      
+To create a webpage that includes an article, brief summary, and data about UFO sightings.  A dynamic webpage is created by inserting JavaScript into a HTML page.  Bootstrap, CSS, and D3 are used to improve the webpage for users appeal.      
 
 ## Resources
 1. Data Source:
