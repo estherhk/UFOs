@@ -28,7 +28,7 @@ The article title and paragraph explains the reasoning of the webpage.  The para
 The webpage is designed to retrieve specific information based on different filter searches: Date, State, Country, Shape, Duration, Comments
 This can be done automatically or after the user clicks the "Filter Table" button
 
-### Boostrap Components
+### Bootstrap Components
 Bootstrap components were added to make the webpage easier for users:
 1. Change the background color around the brief summary 
 2. Move the "Filter Table" button to the center of the Filter Search
